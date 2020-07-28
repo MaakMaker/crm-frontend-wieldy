@@ -1,0 +1,50 @@
+{
+  "../../routes/inbuiltApps/Chat": [
+    {
+      "id": "./app/components/chat/ChatUserList/UserCell/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./app/components/chat/ChatUserList/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./app/components/chat/ContactList/UserCell/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./app/components/chat/ContactList/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./app/components/chat/Conversation/ReceivedMessageCell/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./app/components/chat/Conversation/SentMessageCell/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./app/components/chat/Conversation/index.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./routes/inbuiltApps/Chat/data/chatUsers.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./routes/inbuiltApps/Chat/data/conversationList.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./routes/inbuiltApps/Chat/index.js",
+      "file": "static/chunks/4.js"
+    }
+  ],
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js"
+    }
+  ]
+}
