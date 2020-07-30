@@ -1,1 +1,1 @@
-self.__BUILD_MANIFEST = {"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],"/components/data-entry/form":["static\u002Fchunks\u002Fpages\u002Fcomponents\u002Fdata-entry\u002Fform.js"],"/in-built-apps/chat":["static\u002Fchunks\u002Fpages\u002Fin-built-apps\u002Fchat.js"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
+self.__BUILD_MANIFEST = {"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],"/main/crm/ifis":["static\u002Fchunks\u002Fpages\u002Fmain\u002Fcrm\u002Fifis.js"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

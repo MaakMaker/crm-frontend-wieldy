@@ -26,19 +26,10 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
-    "/components/data-entry/form": [
+    "/main/crm/ifis": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/css/styles.chunk.css",
-      "static/chunks/styles.js",
-      "static/chunks/pages/components/data-entry/form.js"
-    ],
-    "/in-built-apps/chat": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/css/styles.chunk.css",
-      "static/chunks/styles.js",
-      "static/chunks/pages/in-built-apps/chat.js"
+      "static/chunks/pages/main/crm/ifis.js"
     ]
   },
   "ampFirstPages": []

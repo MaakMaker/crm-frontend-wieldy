@@ -15,10 +15,10 @@ const initialSettings = {
   width: 1367,
   isDirectionRTL: false,
   locale: {
-    languageId: 'english',
-    locale: 'en',
-    name: 'English',
-    icon: 'us'
+    languageId: 'russian',
+    locale: 'ru',
+    name: 'Русский',
+    icon: 'ru'
   }
 };
 

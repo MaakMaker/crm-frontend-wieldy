@@ -1,15 +1,15 @@
 const languageData = [
   {
+    languageId: 'russian', // Unique ID for language
+    locale : 'ru',         // locale name to link with the previously named locale
+    name : 'Русский',      // Display name of the language
+    icon : 'ru'            // To choose the flag of the country
+  },
+  {
     languageId: 'english',
     locale: 'en',
     name: 'English',
     icon: 'us'
-  },
-  {
-    languageId: 'russian', // Unique ID for language
-    locale : 'ru',         // locale name to link with the previously named locale
-    name : 'Russian',      // Display name of the language
-    Icon : 'ru'            // To choose the flag of the country
   },
   {
     languageId: 'chinese',

@@ -1,44 +1,200 @@
 {
-  "../../routes/inbuiltApps/Chat": [
+  "../../../routes/main/CRM/IFI": [
     {
-      "id": "./app/components/chat/ChatUserList/UserCell/index.js",
-      "file": "static/chunks/4.js"
+      "id": "./node_modules/react-notifications/lib/notifications.css",
+      "file": "static/chunks/styles.js"
     },
     {
-      "id": "./app/components/chat/ChatUserList/index.js",
-      "file": "static/chunks/4.js"
+      "id": 1,
+      "file": "static/chunks/styles.js"
     },
     {
-      "id": "./app/components/chat/ContactList/UserCell/index.js",
-      "file": "static/chunks/4.js"
+      "id": "./node_modules/antd/dist/antd.css",
+      "file": "static/chunks/styles.js"
     },
     {
-      "id": "./app/components/chat/ContactList/index.js",
-      "file": "static/chunks/4.js"
+      "id": 2,
+      "file": "static/chunks/styles.js"
     },
     {
-      "id": "./app/components/chat/Conversation/ReceivedMessageCell/index.js",
-      "file": "static/chunks/4.js"
+      "id": "./node_modules/slick-carousel/slick/slick.css",
+      "file": "static/chunks/styles.js"
     },
     {
-      "id": "./app/components/chat/Conversation/SentMessageCell/index.js",
-      "file": "static/chunks/4.js"
+      "id": 3,
+      "file": "static/chunks/styles.js"
     },
     {
-      "id": "./app/components/chat/Conversation/index.js",
-      "file": "static/chunks/4.js"
+      "id": "./node_modules/slick-carousel/slick/slick-theme.css",
+      "file": "static/chunks/styles.js"
     },
     {
-      "id": "./routes/inbuiltApps/Chat/data/chatUsers.js",
-      "file": "static/chunks/4.js"
+      "id": 4,
+      "file": "static/chunks/styles.js"
     },
     {
-      "id": "./routes/inbuiltApps/Chat/data/conversationList.js",
-      "file": "static/chunks/4.js"
+      "id": "./public/vendors/flag/sprite-flags-24x24.css",
+      "file": "static/chunks/styles.js"
     },
     {
-      "id": "./routes/inbuiltApps/Chat/index.js",
-      "file": "static/chunks/4.js"
+      "id": 5,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./public/vendors/gaxon/styles.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 6,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./public/loader.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 7,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./public/vendors/noir-pro/styles.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 8,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./styles/style.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 9,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./routes/main/CRM/IFI/index.css",
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": 10,
+      "file": "static/chunks/styles.js"
+    },
+    {
+      "id": "./app/components/AppModuleHeader/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./app/components/ifi/AddIFI/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/index.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/adapters/xhr.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/axios.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/cancel/Cancel.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/cancel/CancelToken.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/cancel/isCancel.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/core/Axios.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/core/InterceptorManager.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/core/buildFullPath.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/core/createError.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/core/dispatchRequest.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/core/enhanceError.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/core/mergeConfig.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/core/settle.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/core/transformData.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/defaults.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/helpers/bind.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/helpers/buildURL.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/helpers/combineURLs.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/helpers/cookies.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/helpers/parseHeaders.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/helpers/spread.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/axios/lib/utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./routes/main/CRM/IFI/index.js",
+      "file": "static/chunks/2.js"
     }
   ],
   "./dev/noop": [
