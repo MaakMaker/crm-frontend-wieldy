@@ -1,1 +1,0 @@
-{"ast":null,"code":"import crm from \"./signin\";\nexport default crm;","map":{"version":3,"sources":["E:/frontend-projects/crm-frontend-wieldy/pages/index.js"],"names":["crm"],"mappings":"AAAA,OAAOA,GAAP,MAAgB,UAAhB;AAEA,eAAeA,GAAf","sourcesContent":["import crm from \"./signin\"\r\n\r\nexport default crm;\r\n"]},"metadata":{},"sourceType":"module"}
