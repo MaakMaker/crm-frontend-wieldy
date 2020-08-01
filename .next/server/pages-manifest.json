@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/components/data-entry/form": "pages/components/data-entry/form.js",
-  "/in-built-apps/chat": "pages/in-built-apps/chat.js"
+  "/": "pages/index.js",
+  "/main/dashboard/crm": "pages/main/dashboard/crm.js"
 }
