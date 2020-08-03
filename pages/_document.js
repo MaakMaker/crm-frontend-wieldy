@@ -9,7 +9,7 @@ export default class MyDocument extends Document {
         <link rel="shortcut icon" href="/favicon.ico"/>
         <link rel="stylesheet" href="/vendors/gaxon/styles.css"/>
         <link rel="stylesheet" href="/vendors/flag/sprite-flags-24x24.css"/>
-        <link rel="stylesheet" href="/vendors/loader.css"/>
+        <link rel="stylesheet" href="/loader.css"/>
         <link rel="stylesheet" href="/vendors/noir-pro/styles.css"/>
         <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
         <script src="https://www.amcharts.com/lib/3/serial.js"></script>
